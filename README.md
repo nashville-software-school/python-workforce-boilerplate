@@ -25,7 +25,7 @@
 
   * `python manage.py createsuperuser`
 
-* Populate your database with initial data from fixtures files: (_NOTE: every time you run this it will remove exisiting data and repopulate the tables_)
+* Populate your database with initial data from fixtures files: (_NOTE: every time you run this it will remove existing data and repopulate the tables_)
 
   * `python manage.py loaddata computers`
   * `python manage.py loaddata users`
@@ -37,7 +37,7 @@
 
 ## Official Bangazon LLC ERD
 
-Our team of database develoeprs and adminsitrators developed this ERD for you to reference when creating your models.
+Our team of database developers and administrators developed this ERD for you to reference when creating your models.
 
 https://dbdiagram.io/d/5bad7831a3794b0014b3ccc7
 
