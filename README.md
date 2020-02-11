@@ -10,7 +10,7 @@
 * Or create your Windows virtual environment in Command Line:
 
   * `python -m venv workforceenv`
-  * source ./workforceenv/Scripts/activate
+  * `source ./workforceenv/Scripts/activate`
 
 * Install the app's dependencies:
 
