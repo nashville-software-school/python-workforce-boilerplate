@@ -2,7 +2,7 @@
 
 * Clone down your team's repo and `cd` into it
 
-* Create your OSX virtual environment in Terminal:
+* Create your OSX/Linux OS virtual environment in Terminal:
 
   * `python -m venv workforceenv`
   * `source ./workforceenv/bin/activate`
@@ -39,6 +39,6 @@
 
 Our team of database developers and administrators developed this ERD for you to reference when creating your models.
 
-https://dbdiagram.io/d/5bad7831a3794b0014b3ccc7
+https://dbdiagram.io/d/5eb4d41339d18f5553fedf9e
 
 Not that the column names do not conform to the Python community standards (PEP) for naming conventions. Make sure your models use snake case.
