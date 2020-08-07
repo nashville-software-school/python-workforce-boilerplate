@@ -41,4 +41,4 @@ Our team of database developers and administrators developed this ERD for you to
 
 https://dbdiagram.io/d/5eb4d41339d18f5553fedf9e
 
-Not that the column names do not conform to the Python community standards (PEP) for naming conventions. Make sure your models use snake case.
+Note that the column names do not conform to the Python community standards (PEP) for naming conventions. Make sure your models' properties use snake case.
